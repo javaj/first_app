@@ -1,5 +1,5 @@
 # Ruby on Rails Tutorial: first application
 
 This is the first application for
-_Ruby on Rails Tutorial: Learn Rails by Example_
+[*Ruby on Rails Tutorial: Learn Rails by Example*]
 which is a really groovy book by Michael Hartl.
